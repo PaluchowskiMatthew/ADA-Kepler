@@ -1,2 +1,2 @@
-# ADA-Kepler
-This is repo with ADA Labs homeworks
+# Labs
+Material used during the lab sessions
