@@ -9,7 +9,7 @@ import re
 # Furthermore, we will use the normal stack of pandas, numpy, matplotlib and seaborn
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as pls
+import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Statistical test library
