@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 from urllib.parse import urlencode
 from pprint import *
@@ -43,7 +44,7 @@ def get_canton(name):
 ''' Do a lookup on geonames.org for name. Returns the first query result. '''
 def geo_lookup(name):
     # Insert username
-    username = 'user1'
+    username = 'username'
     
     url = r'http://api.geonames.org/searchJSON?'
     encoded_args = urlencode({'name': name, 'country':'ch', 'maxRows':'1', 'username': username} )
