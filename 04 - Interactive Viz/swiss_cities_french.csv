@@ -1,0 +1,140 @@
+Rang	Ville	Habitants	Superficie	Densité	HabitantsAglo	Agglomération
+1	Zurich, ZH	372 0474	87,88	4 233,6	1 185 214	Zurich
+2	Genève, GE	201 164	15,93	12 628	527 764	Genève
+3	Bâle, BS	166 173	23,91	6 949,9	501 285	Bâle
+4	Lausanne, VD	133 521	41,38	3 226,7	334 908	Lausanne
+5	Berne, BE	128 848	51,62	2 496,1	352 470	Berne
+6	Winterthour, ZH	101 2034	68,07	1 486,7	139 373	Winterthour
+7	Lucerne, LU	77 491	29,06	2 666,6	209 224	Lucerne
+8	Saint-Gall, SG	72 959	39,39	1 852,2	150 012	Saint-Gall
+9	Lugano, TI	55 060	32,09	1 715,8	136 414	Lugano
+10	Bienne, BE	53 031	21,23	2 497,9	93 478	Bienne
+11	Thoune, BE	42 929	21,58	1 989,3	95 245	Thoune
+12	Köniz, BE	39 794	51,01	780,1	 	Berne
+13	La Chaux-de-Fonds, NE	38 694	55,66	695,2	47 375	La Chaux-de-Fonds – Le Locle
+14	Schaffhouse, SH	34 943	41,86	834,8	66 132	Schaffhouse
+15	Fribourg, FR	38 288	9,30	4 117	104 569	Fribourg
+16	Vernier, GE	35 298	7,68	4 596,1	 	Genève
+17	Coire, GR	33 756	28,09	1 201,7	69 838	Coire
+18	Neuchâtel, NE	33 641	18,10	1 858,6	80 788	Neuchâtel
+19	Uster, ZH	32 2854	28,53	1 131,6	 	Zurich
+20	Sion, VS	32 797	25,62	1 104,3	60 585	Sion
+21	Lancy, GE	31 557	4,77	6 615,7	 	Genève
+22	Emmen, LU	28 031	20,33	1 378,8	 	Lucerne
+23	Yverdon-les-Bains, VD	28 972	11,28	2 568,4	33 144	Yverdon-les-Bains
+24	Zoug, ZG	26 327	21,61	1 218,3	107 876	Zoug
+25	Kriens, LU	26 324	27,34	962,8	 	Lucerne
+26	Rapperswil-Jona, SG	26 212	22,25	1 178,1	50 405	Rapperswil-Jona - Rüti
+27	Dübendorf, ZH	24 882	13,62	1 826,9	 	Zurich
+28	Montreux, VD	26 072	33,37	781,3	92 123	Vevey - Montreux
+29	Dietikon, ZH	23 578	9,33	2 527,1	 	Zurich
+30	Frauenfeld, TG	22 878	27,37	835,9	29 098	Frauenfeld
+31	Wetzikon, ZH	22 061	16,75	1 317,1	51 163	Wetzikon - Pfäffikon, ZH
+32	Meyrin, GE	22 399	9,94	2 253,4	 	Genève
+33	Baar, ZG	21 787	24,83	877,4	 	Zoug
+34	Riehen, BS	20 539	10,86	1 891,3	 	Bâle
+35	Wädenswil, ZH	20 376	17,39	1 171,7	 	Zurich
+36	Carouge, GE	21 741	2,70	8 052,2	 	Genève
+37	Wettingen, AG	20 265	10,61	1 910	 	Baden - Brugg
+38	Aarau, AG	20 130	12,33	1 632,6	87 578	Aarau
+39	Renens, VD	20 307	2,96	6 860,5	 	Lausanne
+40	Allschwil, BL	19 529	8,92	2 189,3	 	Bâle
+41	Bulle, FR	21 464	23,87	899,2	26 885	Bulle
+42	Horgen, ZH	18 935	21,11	897	 	Zurich
+43	Kreuzlingen, TG	18 933	11,49	1 647,8	28 732	Kreuzlingen - Constance
+44	Reinach, BL	18 788	7,00	2 684	 	Bâle
+45	Nyon, VD	19 632	6,79	2 891,3	 	Genève
+46	Vevey, VD	18 838	2,38	7 915,1	92 123	Vevey - Montreux
+47	Baden, AG	18 523	13,18	1 405,4	116 963	Baden - Brugg
+48	Wil, SG	18 169	7,62	2 384,4	69 882	Wil
+49	Kloten, ZH	17 995	19,27	933,8	 	Zurich
+50	Gossau, SG	17 763	27,51	645,7	 	Saint-Gall
+51	Onex, GE	18 697	2,82	6 630,1	 	Genève
+52	Bülach, ZH	17 478	16,09	1 086,3	 	Zurich
+53	Volketswil, ZH	17 412	14,03	1 241,1	 	Zurich
+54	Muttenz, BL	17 361	16,67	1 043,3	 	Bâle
+55	Bellinzone, TI	17 323	19,15	904,6	50 670	Bellinzone
+56	Thalwil, ZH	17 189	5,50	3 125,3	 	Zurich
+57	Olten, SO	17 280	11,49	1 503,9	110 352	Olten – Zofingue
+58	Pully, VD	17 598	5,85	3 008,2	 	Lausanne
+59	Regensdorf, ZH	16 518	14,69	1 129,8	 	Zurich
+60	Adliswil, ZH	16 488	7,77	2 122	 	Zurich
+61	Monthey, VS	17 113	28,63	597,7	38 751	Monthey - Aigle
+62	Soleure, SO	16 599	6,28	2 643,2	75 909	Soleure
+63	Martigny, VS	17 215	24,97	689,4	 	 
+64	Schlieren, ZH	16 103	6,60	2 439,8	 	Zurich
+65	Granges, SO	16 401	26,01	630,6	25 295	Granges
+66	Freienbach, SZ	15 647	13,78	1 135,5	 	Zurich
+67	Illnau-Effretikon, ZH	15 597	25,29	616,7	 	Zurich
+68	Opfikon, ZH	15 582	5,59	2 787,5	 	Zurich
+69	Sierre, VS	16 332	19,18	851,5	37 533	Sierre - Montana
+70	Ostermundigen, BE	16 185	5,94	2 724,7	 	Berne
+71	Steffisburg, BE	15 585	13,36	1 166,5	 	Thoune
+72	Berthoud, BE	15 907	15,60	1 019,7	28 386	Berthoud
+73	Pratteln, BL	15 333	10,69	1 434,3	 	Bâle
+74	Herisau, AR	15 236	25,20	604,6	 	Saint-Gall
+75	Locarno, TI	15 185	19,27	788	61 838	Locarno
+76	Langenthal, BE	15 291	17,26	885,9	 	 
+77	Cham, ZG	14 808	17,71	836,1	 	Zoug
+78	Morges, VD	15 401	3,85	4 000,3	 	Lausanne
+79	Binningen, BL	14 725	4,43	3 323,9	 	Bâle
+80	Wohlen, AG	15 139	12,48	1 213,1	22 793	Wohlen
+81	Schwytz, SZ	14 423	53,25	270,9	25 881	Schwytz
+82	Einsiedeln, SZ	14 385	99,04	145,2	 	 
+83	Stäfa, ZH	13 923	8,58	1 622,7	 	Zurich
+84	Liestal, BL	13 739	18,19	755,3	 	Bâle
+85	Wallisellen, ZH	13 616	6,43	2 117,6	 	Zurich
+86	Thônex, GE	14 140	3,84	3 682,3	 	Genève
+87	Küsnacht, ZH	13 499	12,35	1 093	 	Zurich
+88	Horw, LU	13 444	12,84	1 047	 	Lucerne
+89	Arbon, TG	13 430	5,94	2 260,9	59 224	Arbon - Rorschach
+90	Versoix, GE	13 439	10,51	1 278,7	 	Genève
+91	Uzwil, SG	12 655	14,50	872,8	 	Wil
+92	Muri bei Bern, BE	12 901	7,63	1 690,8	 	Berne
+93	Meilen, ZH	12 539	11,94	1 050,2	 	Zurich
+94	Spiez, BE	12 577	16,69	753,6	 	Thoune
+95	Brigue-Glis, VS	12 823	38,08	336,7	33 447	Brigue – Viège
+96	Richterswil, ZH	12 336	7,54	1 636,1	 	Zurich
+97	Oftringen, AG	13 073	12,85	1 017,4	 	Olten – Zofingue
+98	Küssnacht, SZ	12 224	29,36	416,3	 	Lucerne
+99	Ebikon, LU	12 116	9,68	1 251,7	 	Lucerne
+100	Zollikon, ZH	12 033	7,86	1 530,9	 	Zurich
+101	Rheinfelden, AG	12 552	16,03	783	 	Bâle
+102	Rüti, ZH	11 934	10,06	1 186,3	50 405	Rapperswil-Jona – Rüti
+103	Amriswil, TG	11 894	19,02	625,3	26 191	Amriswil – Romanshorn
+104	Münchenstein, BL	11 867	7,18	1 652,8	 	Bâle
+105	Le Grand-Saconnex, GE	12 171	4,38	2 778,8	 	Genève
+106	Lyss, BE	14 200	14,82	958,2	 	 
+107	Gland, VD	12 482	8,32	1 500,2	 	Genève
+108	Delémont, JU	12 186	21,99	554,2	21 309	Delémont
+109	Mendrisio, TI	11 561	21,65	534	49 428	Chiasso - Mendrisio (Côme-)
+110	Prilly, VD	11 824	2,19	5 399,1	 	Lausanne
+111	Villars-sur-Glâne, FR	12 137	5,49	2 210,7	 	Fribourg
+112	Worb, BE	11 370	21,10	538,9	 	Berne
+113	Buchs, SG	11 242	15,95	704,8	22 516	Buchs – Vaduz
+114	Davos, GR	11 166	283,98	39,3	 	 
+115	Écublens, VD	12 181	5,71	2 133,3	 	Lausanne
+116	Affoltern am Albis, ZH	11 063	10,61	1 042,7	 	Zurich
+117	Bassersdorf, ZH	11 052	9,02	1 225,3	 	Zurich
+118	Ittigen, BE	11 067	4,21	2 628,7	 	Berne
+119	Spreitenbach, AG	10 982	8,60	1 277	 	Zurich
+120	Zofingue, AG	11 070	11,09	998,2	110 352	Olten - Zofingue
+121	Münsingen, BE	11 651	8,48	1 373,9	 	Berne
+122	Altstätten, SG	10 819	39,49	274	53 671	Heerbrugg – Altstätten
+123	Val-de-Travers, NE	10 913	124,91	87,4	 	 
+124	La Tour-de-Peilz, VD	11 207	3,24	3 459	 	Vevey – Montreux
+125	Arth, SZ	10 699	42,08	254,3	 	 
+126	Pfäffikon, ZH	10 602	19,55	542,3	51 163	Wetzikon - Pfäffikon
+127	Oberwil, BL	10 505	7,88	1 333,1	 	Bâle
+128	Männedorf, ZH	10 437	4,77	2 188,1	 	Zurich
+129	Brugg, AG	10 889	6,36	1 712,1	116 963	Baden – Brugg
+130	Chêne-Bougeries, GE	11 318	4,13	2 740,4	 	Genève
+131	Birsfelden, BL	10 389	2,52	4 122,6	 	Bâle
+132	Hinwil, ZH	10 364	22,30	464,8	 	Wetzikon - Pfäffikon
+133	Aesch, BL	10 255	7,39	1 387,7	 	Bâle
+134	Veyrier, GE	11 298	6,50	1 738,2	 	Genève
+135	Belp, BE	11 346	17,59	645	 	Berne
+136	Neuhausen am Rheinfall, SH	10 185	8,00	1 273,1	 	Schaffhouse
+137	Weinfelden, TG	10 141	15,50	654,3	 	 
+138	Le Locle, NE	10 422	23,14	450,4	47 375	La Chaux-de-Fonds - Le Locle
+139	Möhlin, AG	10 617	18,79	565	 	Bâle
