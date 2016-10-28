@@ -6,7 +6,7 @@ import requests
 from collections import defaultdict
 
 
-USERNAME = 'user2'
+USERNAME = 'user1'
 URL = r'http://api.geonames.org/searchJSON?'
 
 # Get the cantons data
