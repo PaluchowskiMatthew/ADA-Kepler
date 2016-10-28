@@ -1,0 +1,27 @@
+Code	Kanton	Kantons-nummer	Standes-stimme	Beitritt	Hauptort	Einwohner1	Ausländer	Arbeitslosen-quote	Fläche	Einwohner-dichte	Gemeinden	Sprache
+ZH	Kanton Zürich Zürich	01	1	1351	Zürich	1'463'459	26,1	3,9	1'729	846	168	Deutsch
+BE	Kanton Bern Bern	02	1	1353	Bern	1'017'483	15,4	2,9	5'959	171	352	Deutsch
+LU	Kanton Luzern Luzern	03	1	1332	Luzern	398'699	17,8	2,3	1'493	267	83	Deutsch
+UR	Kanton Uri Uri	04	1	7 1291	Altdorf	35'971	11,6	1,2	1'077	33	20	Deutsch
+SZ	Kanton Schwyz Schwyz	05	1	7 1291	Schwyz	153'057	20,1	1,9	908	169	30	Deutsch
+OW	Kanton Obwalden Obwalden	06	½	7 1291	Sarnen	37'190	14,3	1,1	491	76	7	Deutsch
+NW	Kanton Nidwalden Nidwalden	07	½	7 1291	Stans	42'274	13,9	1,4	276	153	11	Deutsch
+GL	Kanton Glarus Glarus	08	1	1352	Glarus	40'028	23,1	2,6	685	58	3	Deutsch
+ZG	Kanton Zug Zug	09	1	1352	Zug	122'113	27,0	2,6	239	511	11	Deutsch
+FR	Kanton Freiburg Freiburg	10	1	1481	Freiburg	307'461	21,8	3,5	1'671	184	150	Französisch
+SO	Kanton Solothurn Solothurn	11	1	1481	Solothurn	266'418	21,4	3,2	791	337	109	Deutsch
+BS	Kanton Basel-Stadt Basel-Stadt	12	½	1501	Basel	197'204	35,2	4,0	37	5330	3	Deutsch
+BL	Kanton Basel-Landschaft Basel-Landschaft	13	½	1501	Liestal	283'231	21,7	3,1	518	547	86	Deutsch
+SH	Kanton Schaffhausen Schaffhausen	14	1	1501	Schaffhausen	79'836	25,4	3,6	298	268	26	Deutsch
+AR	Kanton Appenzell Ausserrhoden Appenzell Ausserrhoden	15	½	1513	Herisau, Trogen5	54'543	15,7	2,0	243	224	20	Deutsch
+AI	Kanton Appenzell Innerrhoden Appenzell Innerrhoden	16	½	1513	Appenzell	15'974	10,8	1,0	173	92	6	Deutsch
+SG	Kanton St. Gallen St. Gallen	17	1	1803	St. Gallen	499'065	23,5	2,7	2'026	246	77	Deutsch
+GR	Kanton Graubünden Graubünden	18	1	1803	Chur	196'610	18,2	2,1	7'105	28	114	Deutsch
+AG	Kanton Aargau Aargau	19	1	1803	Aarau	653'317	24,2	3,4	1'404	465	213	Deutsch
+TG	Kanton Thurgau Thurgau	20	1	1803	Frauenfeld	267'429	24,2	2,9	991	270	80	Deutsch
+TI	Kanton Tessin Tessin	21	1	1803	Bellinzona	351'946	27,8	4,2	2'812	125	130	Italienisch
+VD	Kanton Waadt Waadt	22	1	1803	Lausanne	773'407	33,4	5,2	3'212	241	316	Französisch
+VS	Kanton Wallis Wallis	23	1	1815	Sitten	335'696	23,1	5,8	5'224	64	134	Französisch
+NE	Kanton Neuenburg Neuenburg	24	1	1815	Neuenburg	178'107	25,5	6,1	803	222	36	Französisch
+GE	Kanton Genf Genf	25	1	1815	Genf	490'578	41,1	5,7	282	1740	45	Französisch
+JU	Kanton Jura Jura	26	1	1979	Delsberg	72'782	14,3	4,6	838	87	57	Französisch
