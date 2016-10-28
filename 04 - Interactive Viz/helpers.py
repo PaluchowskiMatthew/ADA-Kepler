@@ -6,7 +6,7 @@ import requests
 from collections import defaultdict
 
 
-USERNAME = 'user1'
+USERNAME = 'user2'
 URL = r'http://api.geonames.org/searchJSON?'
 
 # Get the cantons data
@@ -20,7 +20,7 @@ canton_to_code = cantons.set_index('Canton')['Code'].to_dict()
 def get_dropped_perc(before, after):
     return (1 - (after.shape[0] / before.shape[0])) * 100
 
-geo_cache = defaultdict(str)
+
 def geo_query(name):
     """Do a lookup on geonames.org for name. Returns the first query result."""
     try:
@@ -33,7 +33,7 @@ def geo_query(name):
         # Parse the result as json
         result = r.json()
         
-        if result['totalResultsCount'] == 1:
+        if result['totalResultsCount'] > 0:
             # If there was a positive result, get the info from the result
             geonames = result['geonames']
             geo = geonames[0]
@@ -41,6 +41,9 @@ def geo_query(name):
             canton = geo['adminCode1']
             lat = geo['lat']
             lng = geo['lng']
+            
+            if canton == '00':
+                return False
             
             return {'canton': canton, 'lat': lat, 'long': lng}
         else:
@@ -50,7 +53,7 @@ def geo_query(name):
     except BaseException as e:
         # Sometimes we get some strange results back, which leads our parsing to crash.
         # This is allso returned as False
-        print('For name:', name, e)
+        print('Exception:', name, e)
         return False
         
 def geo_lookup(name):
@@ -77,21 +80,21 @@ def get_geo_dict(group):
         name = ind.split(' - ')[0]
         
         # Do a lookup with our cached API-function, using the whole name
-        res = geo_lookup(name)
+        res = geo_query(name)
         
         
         if res:
             # If there is a result, save it
-            geo_res[name] = res
+            geo_res[ind] = res
         else:
             # If the result is negative, try to do a query with only the last word,
             # which is often the name of the city
             name = name.split(' ')[-1].strip(')')
-            res = geo_lookup(name)
+            res = geo_query(name)
             
             if res:
                 # If positive, save the result
-                geo_res[name] = res
+                geo_res[ind] = res
             else:
                 # Else, save it as an error to be handeled later
                 geo_err.add(ind)
